@@ -120,6 +120,7 @@ API para gerenciar **Usuários**, **Regiões** e **Alertas** de eventos extremos
 - `/v3/api-docs` → JSON da API
 - `/swagger-ui.html` → UI interativa
 - Anotações `@Operation`, `@ApiResponse` em cada controller
+- **Link do deploy:** https://aquaguardapi-gs-1sem.onrender.com/swagger-ui/index.html#/
 
 ---
 
