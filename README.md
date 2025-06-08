@@ -2,12 +2,6 @@
 
 API REST de monitoramento de eventos extremos, parte do desafio “Global Solution 2025/1” da FIAP.
 
-## 🔗 Links
-
-- Repositório GitHub: `https://github.com/raphatatto/gs-java-aquaguard`
-- Deploy na nuvem: `https://aquaguard.example.com`
-- Swagger UI: `https://aquaguard.example.com/swagger-ui.html`
-
 ## 📋 Sumário
 
 1. [Visão Geral](#vis%C3%A3o-geral)
