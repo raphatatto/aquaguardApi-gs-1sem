@@ -172,7 +172,7 @@ API para gerenciar **Usuários**, **Regiões** e **Alertas** de eventos extremos
 
 ## 🎥 Vídeo de demonstração e Pitch
 - **Vídeo demonstração do projeto**: https://youtu.be/GDblA_x2lQk
-- **Vídeo Pitch (máx. 3 minutos)**: [link do pitch]
+- **Vídeo Pitch (máx. 3 minutos)**: https://youtu.be/7PS6rra8hOE
 
 
 Boa entrega! 🚀
